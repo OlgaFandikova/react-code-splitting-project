@@ -1,0 +1,19 @@
+.wrap {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  background-color: #999;
+  width: 500px;
+  height: 300px;
+  border: 2px solid #666;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+}
